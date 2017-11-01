@@ -1938,7 +1938,7 @@ def bot(op):
 #-----------------------------------------------
             elif msg.text in ["Creator"]:
 					msg.contentType = 13
-					msg.contentMetadata = {'mid': "ua7fb5762d5066629323d113e1266e8ca","udc7ce8646bbe9a2c6b32ff4d0ba586e1"}
+					msg.contentMetadata = {'mid': "udc7ce8646bbe9a2c6b32ff4d0ba586e1"}
 					cl.sendMessage(msg)
 #-----------------------------------------------
             elif "Spam " in msg.text:
