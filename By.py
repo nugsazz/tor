@@ -2265,7 +2265,7 @@ def bot(op):
 					ki.sendText(msg.to,"Batuk Kong??")
             elif msg.text in ["wkwkwk"]:
 				if msg.from_ in admin:
-					ki.sendText(msg.to,"malik mana ya , gw jadi kangen naena sama dia")
+					ki.sendText(msg.to,"FORCE mana ya , gw jadi kangen naena sama dia")
             elif msg.text in ["Cv say chomel pekok"]:
 				if msg.from_ in admin:
 					ki.sendText(msg.to,"Chomel pekok 魛渷魛厰Har Har魪靠")
